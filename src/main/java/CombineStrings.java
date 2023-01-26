@@ -8,6 +8,10 @@ public class CombineStrings {
      * @return the combination of strings a and b.
      */
     public String combine(String a, String b){
-        return "";
+        /* The input takes in two string values designated a and b.
+         * The '+' symbol can be used to join two strings together
+         * in a process called concatenation.
+         */
+        return  a + b;
     }
 }
